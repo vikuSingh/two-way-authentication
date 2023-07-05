@@ -1,0 +1,47 @@
+spring:
+  datasource:
+    password: your-password
+    url: jdbc:mysql://localhost:3306/your-database-name
+    username: your-username
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+  mail:
+    host: smtp.gmail.com
+    password: your-password
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          connectiontimeout: 5000
+          starttls:
+            enable: true
+          timeout: 5000
+          writetimeout: 5000
+    username: your-username
+  thymeleaf:
+    cache: 'false  '
+    suffix: .html
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: -- your google client id --
+            clientSecret: -- your google client secrets --
+            scope:
+              - email
+              - profile
+
+          facebook:
+            clientId: -- your facebook client id --
+            clientSecret: -- your facebook client secrets --
+            scope:
+              - email
+              - public_profile
