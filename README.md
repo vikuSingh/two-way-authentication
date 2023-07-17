@@ -1,3 +1,9 @@
+![twowaylogin](https://github.com/vikuSingh/two-way-authentication/assets/20941580/a134adcb-6532-4ff7-a1b5-7faa67d69abc)
+![twootppage](https://github.com/vikuSingh/two-way-authentication/assets/20941580/23e2c6b8-9f41-4bf2-aacf-d20e52b44745)
+![twodashboard](https://github.com/vikuSingh/two-way-authentication/assets/20941580/b2fa865e-edf6-4c81-b2a4-e99bead241ff)
+![otppage](https://github.com/vikuSingh/two-way-authentication/assets/20941580/4c8b04e6-e118-4dac-ba4b-1304ffcf9366)
+![twowayRegistration](https://github.com/vikuSingh/two-way-authentication/assets/20941580/c79332a8-2448-46d7-8cd0-4c664009adfe)
+![twowaylogin](https://github.com/vikuSingh/two-way-authentication/assets/20941580/105d9543-5f66-4746-ab61-6140f143545c)
 #Welcome to Two-way Authentication
 #Procedure to Run this application
 
@@ -54,9 +60,23 @@ Files
             clientSecret: -- your facebook client secrets --
 
 
-6. In fecture inhancement add other social media account in the application.yaml file
+7. In fecture inhancement add other social media account in the application.yaml file
 
-7. Ready to go.
-  
+8. Ready to go.
+
+   ![Uploading twowayRegistration.PNG…]()
+
+   
+![Uploading twowaylogin.PNG…]()
+
+
+![Uploading twootppage.PNG…]()
+
+
+![Uploading twodashboard.PNG…]()
+
+ 
+
+
 
 
