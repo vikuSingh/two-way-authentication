@@ -65,7 +65,7 @@ Files
 ![twodashboard](https://github.com/vikuSingh/two-way-authentication/assets/20941580/b2fa865e-edf6-4c81-b2a4-e99bead241ff)
 ![otppage](https://github.com/vikuSingh/two-way-authentication/assets/20941580/4c8b04e6-e118-4dac-ba4b-1304ffcf9366)
 ![twowayRegistration](https://github.com/vikuSingh/two-way-authentication/assets/20941580/c79332a8-2448-46d7-8cd0-4c664009adfe)
-![twowaylogin](https://github.com/vikuSingh/two-way-authentication/assets/20941580/105d9543-5f66-4746-ab61-6140f143545c)
+ 
 
 
 
